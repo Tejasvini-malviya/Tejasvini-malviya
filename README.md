@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Tejasvini-malviya/Tejasvini-malviya/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tejasvini Malviya</h1>
 <h3 align="center">A passionate frontend developer from India...</h3>
 
