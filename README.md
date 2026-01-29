@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvini-malviya&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvini-malviya" /> </p>
 
-- 🔭 I’m currently working on **GSSOC'24 As a Contributor**
+- 🔭 I’m a **Open Source Contributor — GSSOC’24**
 
 - 🌱 I’m currently learning **React , Angular,Node js**
 
