@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me **tejasvinimalviya@gmail.com**
+- 📫 How to reach me **tejasvinimalviya81@gmail.com**
 
 - ⚡ Fun fact **Iam a Extrovert person**
 
